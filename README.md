@@ -1,8 +1,6 @@
 # u2048_Jakowski
 u2048 C# Game by Łukasz Jakowski
 
-u2048 C# Game by Łukasz Jakowski
-
 Author: Łukasz Jakowski
 
 WWW: http://lukaszjakowski.pl Email: jakowskidev@gmail.com
